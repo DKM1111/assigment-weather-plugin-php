@@ -1,0 +1,36 @@
+
+    .weather-widget {
+        background-color: #f1f3f4;
+        border: 1px solid #ccc;
+        padding: 10px;
+        text-align: center;
+        color: #405ce4;
+    }
+
+    .weather-location {
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    .weather-data {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 10px;
+    }
+
+    .weather-icon img {
+        max-width: 40px;
+        max-height: 40px;
+        margin-bottom: 5px;
+    }
+
+    .weather-temperature {
+        font-size: 18px;
+        margin-top: 9px;
+    }
+
+    .weather-description {
+        font-size: 14px;
+        margin-top: 9px;
+    }
+  
